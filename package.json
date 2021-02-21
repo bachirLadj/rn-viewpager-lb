@@ -1,6 +1,6 @@
 {
   "name": "rn-viewpager-lb",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,7 +11,7 @@
   "description": "ViewPager component for react-native, same api on both android and ios.",
   "homepage": "https://github.com/bachirLadj/rn-viewpager-lb.git#readme",
   "dependencies": {
-    "@react-native-community/viewpager": "4.2.3"
+    "@react-native-community/viewpager": "^4.2.3"
   },
   "keywords": [
     "react-native-component",
